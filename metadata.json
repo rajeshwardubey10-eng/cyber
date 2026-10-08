@@ -1,0 +1,6 @@
+{
+  "name": "SecOps Threat & SIEM Dashboard",
+  "description": "A cybersecurity information dashboard that monitors login attempts, failed logins, suspicious activities, and security alerts with live threat detection, analytics, and incident response.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
